@@ -29,7 +29,7 @@ Ao cruzar os dados, o dashboard revelou três realidades completamente diferente
 
 ## 📂 Vem dar uma olhada!
 Quer ver como ficou o resultado final e os códigos que eu usei por trás das cortinas? 
-* 🖼️ **O Dashboard:** Dá uma olhada na imagem do projeto aqui no repositório.
+* 🖼️ **O Dashboard:** ![Capa do Dashboard](Educacional.Print.png)
 * 📄 **Versão em PDF:** Deixei o painel exportado em PDF para quem quiser ver em alta qualidade.
 * 💻 **Os Códigos (SQL):** Na pasta `scripts_sql`, você encontra toda a engenharia de dados que eu fiz para manipular e auditar essa base.
 
